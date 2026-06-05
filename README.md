@@ -4,7 +4,7 @@
  Clone this project  		https://github.com/yoabhishekk/Project-Jake.git
 ## 2. Initialise and start the project
 
-##### 3. Node Package Manager (npm) to download React, Tailwind, and all the tools required to run the project
+## 3. Node Package Manager (npm) to download React, Tailwind, and all the tools required to run the project
    
 npm install		
 
