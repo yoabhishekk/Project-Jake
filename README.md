@@ -4,6 +4,7 @@ This guide explains how to deploy and run the Project-Jake application on an AWS
 
 #### Clone the Repository
 git clone https://github.com/yoabhishekk/Project-Jake.git
+
 cd Project-Jake
 
 #### 2. Install Dependencies
